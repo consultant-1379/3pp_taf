@@ -1,0 +1,13 @@
+command,args,expectedOut,expectedExit,timeout
+make.dir,-p /tmp/clitest/test_scripts, ,0,10000
+change.dir,/tmp/clitest/test_scripts,cd,0,10000
+whoami,  ,root,0,10000
+
+
+
+
+
+
+
+
+

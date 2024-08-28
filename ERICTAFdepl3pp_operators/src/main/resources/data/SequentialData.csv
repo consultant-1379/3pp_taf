@@ -1,0 +1,4 @@
+command,expectedOut,expectedExit,timeout
+ProviderTest.class, ,0,10000
+ProviderTest.java, ,0,10000
+

@@ -1,0 +1,2 @@
+command,args,expectedOut,STDERR,expectedExit,timeout
+run_suite, ,NUM_TC_FAIL=0,,0,900000000000000000000

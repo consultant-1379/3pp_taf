@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ATTSuite">
+	<test name="ATTSuite">
+		<classes>
+			<class name="com.ericsson.oss._3pp.test.cases.CLITest" />
+		</classes>
+	</test>
+</suite>

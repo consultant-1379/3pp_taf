@@ -1,0 +1,10 @@
+TCID,title,command,expectedOut,exitShell,expectedExit,timeout
+TC-1054,Checks to see if java.security is correctly set-up,test_1054.sh,is installed,exit,0,100
+TC-1256,Check if needed files are present,test_1256.sh,found ok,exit,0,100
+TC-1275,Verify symbolic links set in configure script exist,test_1275.sh,symbolic linkng ok,exit,0,100
+TC-1273,Check ports in Domain.xml,test_1273.sh,correctly set,exit,0,100
+TC-1274,Verify system_name file is populated,test_1274.sh,name is ok,exit,0,100
+TC-1295,Timeservice.xml properties test,test_1295.sh,correctly set to true,exit,0,100
+TC-1306,GUI Test window Resize via Citrix,test_1306.sh,return 0,exit,0,100
+TC-1335,Verify agent enable locator set to false in start stop script,test_1335.sh,correctly set to false,exit,0,100
+TC-1285,Versant_dbdump_backup,test_1285.sh,OK - command succesfully completed,exit,0,100
